@@ -100,7 +100,7 @@ svg {
 
 #home {
     display: flex;
-    background: url("/background.png") no-repeat;
+    background: url("./assets/background.png") no-repeat;
     background-size: cover;
     background-position: 0 -200px;
     justify-content: center;
